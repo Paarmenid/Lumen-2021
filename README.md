@@ -2,7 +2,7 @@
 A part of solution for Lumen 2021 student competition.
 The code presented is not the final solution.
 It's the model training and the model execution part of solution.
-The final solution was designed as one python script starting the creation of dataset from which the model training part (one of the thejuypter notebooks in this repository) solution starts.
+The final solution was designed as one python script starting the creation of dataset from which the model training part (one of the the juypter notebooks in this repository) solution starts.
 The creation of the dataset part included loading of the original dataset given by competition designers, doing extensive data cleaning  and analysis, and finally creating filtered dataset used for model training.
 
 Also missing is maybe most important step which included extensive exploratory analysis done by our team in multiple jupyter notebooks. The most important results are incorporated into project documentation (the solution pdf).
